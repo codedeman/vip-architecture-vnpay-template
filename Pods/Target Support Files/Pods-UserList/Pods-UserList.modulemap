@@ -1,0 +1,6 @@
+module Pods_UserList {
+  umbrella header "Pods-UserList-umbrella.h"
+
+  export *
+  module * { export * }
+}
